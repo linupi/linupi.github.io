@@ -1,0 +1,6 @@
+site_name: linupi pages
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+
